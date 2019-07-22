@@ -1,14 +1,10 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"id":1,"first_name":"Monty","last_name":"Boscher","email":"mboscher0@plala.or.jp","gender":"Male","ip_address":"75.224.89.100"},
+{"id":2,"first_name":"Dorie","last_name":"Djurkovic","email":"ddjurkovic1@springer.com","gender":"Female","ip_address":"92.36.136.31"},
+{"id":3,"first_name":"Freda","last_name":"Neller","email":"fneller2@infoseek.co.jp","gender":"Female","ip_address":"172.185.100.49"},
+{"id":4,"first_name":"Brietta","last_name":"Lyle","email":"blyle3@slideshare.net","gender":"Female","ip_address":"21.9.153.188"},
+{"id":5,"first_name":"Shellysheldon","last_name":"Saltrese","email":"ssaltrese4@adobe.com","gender":"Male","ip_address":"60.111.71.248"},
+{"id":6,"first_name":"Alicea","last_name":"Ivatts","email":"aivatts5@tumblr.com","gender":"Female","ip_address":"203.53.110.141"},
+{"id":7,"first_name":"Mar","last_name":"Michallat","email":"mmichallat6@oakley.com","gender":"Male","ip_address":"110.60.123.167"},
+{"id":8,"first_name":"Carling","last_name":"Menloe","email":"cmenloe7@jiathis.com","gender":"Male","ip_address":"215.219.61.196"},
+{"id":9,"first_name":"Boot","last_name":"Scoffham","email":"bscoffham8@ft.com","gender":"Male","ip_address":"231.234.89.235"},
+{"id":10,"first_name":"Calypso","last_name":"Menaul","email":"cmenaul9@washingtonpost.com","gender":"Female","ip_address":"79.253.157.36"}]
